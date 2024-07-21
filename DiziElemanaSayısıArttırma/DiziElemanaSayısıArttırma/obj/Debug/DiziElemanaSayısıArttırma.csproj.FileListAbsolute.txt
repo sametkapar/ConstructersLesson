@@ -1,0 +1,7 @@
+C:\Users\90506\source\repos\DiziElemanaSayısıArttırma\DiziElemanaSayısıArttırma\bin\Debug\DiziElemanaSayısıArttırma.exe.config
+C:\Users\90506\source\repos\DiziElemanaSayısıArttırma\DiziElemanaSayısıArttırma\bin\Debug\DiziElemanaSayısıArttırma.exe
+C:\Users\90506\source\repos\DiziElemanaSayısıArttırma\DiziElemanaSayısıArttırma\bin\Debug\DiziElemanaSayısıArttırma.pdb
+C:\Users\90506\source\repos\DiziElemanaSayısıArttırma\DiziElemanaSayısıArttırma\obj\Debug\DiziElemanaSayısıArttırma.csproj.AssemblyReference.cache
+C:\Users\90506\source\repos\DiziElemanaSayısıArttırma\DiziElemanaSayısıArttırma\obj\Debug\DiziElemanaSayısıArttırma.csproj.CoreCompileInputs.cache
+C:\Users\90506\source\repos\DiziElemanaSayısıArttırma\DiziElemanaSayısıArttırma\obj\Debug\DiziElemanaSayısıArttırma.exe
+C:\Users\90506\source\repos\DiziElemanaSayısıArttırma\DiziElemanaSayısıArttırma\obj\Debug\DiziElemanaSayısıArttırma.pdb

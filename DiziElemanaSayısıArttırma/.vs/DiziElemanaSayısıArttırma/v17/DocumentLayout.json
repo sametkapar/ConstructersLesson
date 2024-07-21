@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\90506\\source\\repos\\DiziElemanaSay\u0131s\u0131Artt\u0131rma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5038895E-269F-4F93-9E6C-AB7DB7009CB8}|DiziElemanaSay\u0131s\u0131Artt\u0131rma\\DiziElemanaSay\u0131s\u0131Artt\u0131rma.csproj|c:\\users\\90506\\source\\repos\\dizielemanasay\u0131s\u0131artt\u0131rma\\dizielemanasay\u0131s\u0131artt\u0131rma\\insan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5038895E-269F-4F93-9E6C-AB7DB7009CB8}|DiziElemanaSay\u0131s\u0131Artt\u0131rma\\DiziElemanaSay\u0131s\u0131Artt\u0131rma.csproj|solutionrelative:dizielemanasay\u0131s\u0131artt\u0131rma\\insan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5038895E-269F-4F93-9E6C-AB7DB7009CB8}|DiziElemanaSay\u0131s\u0131Artt\u0131rma\\DiziElemanaSay\u0131s\u0131Artt\u0131rma.csproj|c:\\users\\90506\\source\\repos\\dizielemanasay\u0131s\u0131artt\u0131rma\\dizielemanasay\u0131s\u0131artt\u0131rma\\konferans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5038895E-269F-4F93-9E6C-AB7DB7009CB8}|DiziElemanaSay\u0131s\u0131Artt\u0131rma\\DiziElemanaSay\u0131s\u0131Artt\u0131rma.csproj|solutionrelative:dizielemanasay\u0131s\u0131artt\u0131rma\\konferans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5038895E-269F-4F93-9E6C-AB7DB7009CB8}|DiziElemanaSay\u0131s\u0131Artt\u0131rma\\DiziElemanaSay\u0131s\u0131Artt\u0131rma.csproj|c:\\users\\90506\\source\\repos\\dizielemanasay\u0131s\u0131artt\u0131rma\\dizielemanasay\u0131s\u0131artt\u0131rma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5038895E-269F-4F93-9E6C-AB7DB7009CB8}|DiziElemanaSay\u0131s\u0131Artt\u0131rma\\DiziElemanaSay\u0131s\u0131Artt\u0131rma.csproj|solutionrelative:dizielemanasay\u0131s\u0131artt\u0131rma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Insan.cs",
+              "DocumentMoniker": "C:\\Users\\90506\\source\\repos\\DiziElemanaSay\u0131s\u0131Artt\u0131rma\\DiziElemanaSay\u0131s\u0131Artt\u0131rma\\Insan.cs",
+              "RelativeDocumentMoniker": "DiziElemanaSay\u0131s\u0131Artt\u0131rma\\Insan.cs",
+              "ToolTip": "C:\\Users\\90506\\source\\repos\\DiziElemanaSay\u0131s\u0131Artt\u0131rma\\DiziElemanaSay\u0131s\u0131Artt\u0131rma\\Insan.cs",
+              "RelativeToolTip": "DiziElemanaSay\u0131s\u0131Artt\u0131rma\\Insan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T17:15:52.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Konferans.cs",
+              "DocumentMoniker": "C:\\Users\\90506\\source\\repos\\DiziElemanaSay\u0131s\u0131Artt\u0131rma\\DiziElemanaSay\u0131s\u0131Artt\u0131rma\\Konferans.cs",
+              "RelativeDocumentMoniker": "DiziElemanaSay\u0131s\u0131Artt\u0131rma\\Konferans.cs",
+              "ToolTip": "C:\\Users\\90506\\source\\repos\\DiziElemanaSay\u0131s\u0131Artt\u0131rma\\DiziElemanaSay\u0131s\u0131Artt\u0131rma\\Konferans.cs",
+              "RelativeToolTip": "DiziElemanaSay\u0131s\u0131Artt\u0131rma\\Konferans.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T17:11:02.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\90506\\source\\repos\\DiziElemanaSay\u0131s\u0131Artt\u0131rma\\DiziElemanaSay\u0131s\u0131Artt\u0131rma\\Program.cs",
+              "RelativeDocumentMoniker": "DiziElemanaSay\u0131s\u0131Artt\u0131rma\\Program.cs",
+              "ToolTip": "C:\\Users\\90506\\source\\repos\\DiziElemanaSay\u0131s\u0131Artt\u0131rma\\DiziElemanaSay\u0131s\u0131Artt\u0131rma\\Program.cs",
+              "RelativeToolTip": "DiziElemanaSay\u0131s\u0131Artt\u0131rma\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAGwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:50:44.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\90506\source\repos\YapiciMetotlarConstructors\YapiciMetotlarConstructors\bin\Debug\YapiciMetotlarConstructors.exe.config
+C:\Users\90506\source\repos\YapiciMetotlarConstructors\YapiciMetotlarConstructors\bin\Debug\YapiciMetotlarConstructors.exe
+C:\Users\90506\source\repos\YapiciMetotlarConstructors\YapiciMetotlarConstructors\bin\Debug\YapiciMetotlarConstructors.pdb
+C:\Users\90506\source\repos\YapiciMetotlarConstructors\YapiciMetotlarConstructors\obj\Debug\YapiciMetotlarConstructors.csproj.AssemblyReference.cache
+C:\Users\90506\source\repos\YapiciMetotlarConstructors\YapiciMetotlarConstructors\obj\Debug\YapiciMetotlarConstructors.csproj.CoreCompileInputs.cache
+C:\Users\90506\source\repos\YapiciMetotlarConstructors\YapiciMetotlarConstructors\obj\Debug\YapiciMetotlarConstructors.exe
+C:\Users\90506\source\repos\YapiciMetotlarConstructors\YapiciMetotlarConstructors\obj\Debug\YapiciMetotlarConstructors.pdb
